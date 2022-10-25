@@ -7,6 +7,8 @@ $(document).ready(function () {
 		
 		speed: 200,
 		
+		arrows: true,
+		
 		slidesToShow: 4,
 		
 		slidesToScroll: 4,
