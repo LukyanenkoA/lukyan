@@ -13,9 +13,9 @@ $(document).ready(function () {
 		
 		slidesToScroll: 4,
 		
-		prevArrow: $('#prev'),
+		prevArrow: $('.prev'),
 		
-		nextArrow: $('#next'),
+		nextArrow: $('.next'),
 		
 		responsive: [
 			{
