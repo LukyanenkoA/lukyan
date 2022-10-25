@@ -13,10 +13,6 @@ $(document).ready(function () {
 		
 		slidesToScroll: 4,
 		
-		prevArrow: $('.prev'),
-		
-		nextArrow: $('.next'),
-		
 		responsive: [
 			{
 				
@@ -25,7 +21,9 @@ $(document).ready(function () {
 			    settings: {
 				
 		            slidesToShow: 2,
-					
+				    
+			    arrows: true,
+			
                             slidesToScroll: 2,
 					
                             infinite: true,
